@@ -1,7 +1,7 @@
-package com.boot.boot.controller;
+package com.boot.controller;
 
 
-import com.boot.boot.model.Shipwreck;
+import com.boot.model.Shipwreck;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

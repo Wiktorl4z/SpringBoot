@@ -1,6 +1,6 @@
-package com.boot.boot.controller;
+package com.boot.controller;
 
-import com.boot.boot.model.Shipwreck;
+import com.boot.model.Shipwreck;
 
 import java.util.ArrayList;
 import java.util.HashMap;
